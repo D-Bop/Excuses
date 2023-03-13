@@ -1,22 +1,22 @@
 const excuses = [
     {
         usecase: 'work',
-        work_excuse: 'I was breathing methane and hydrogen yesterday and my spirit could not find my shoes'
+        work_excuse: "I was breathing methane and hydrogen yesterday and my spirit could not find my shoes. That's why i couldn't show up at work "
     },
 
     {
         usecase: 'school',
-        school_excuse: 'The bridge connecting my house to the school got destroyed by a whale'
+        school_excuse: "The bridge connecting my house to the school got destroyed by a whale. That's why I couldn't come to school"
     },
 
     {
         usecase: 'chores',
-        chores_excuse: 'My hands and legs disappeared for the whole day, they are just appearing now.'
+        chores_excuse: "My hands and legs disappeared for the whole day, they are just appearing now. That's why I couldn't do my chores"
     },
 
     {
         usecase: 'church',
-        church_excuse: 'I dreamt about the service and i felt i was in church, i didnt know i was in my dream'
+        church_excuse: "I dreamt about the service and i felt i was in church, i didnt know i was in my dream. It's why i couldn't come to church"
     }
 ]
 
