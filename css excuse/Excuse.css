@@ -93,4 +93,7 @@ form input {
     form input {
         width: 90%;
     }
+    .form-container {
+        width: 100%;
+    }
 }
